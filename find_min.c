@@ -1,3 +1,7 @@
+/*******************************
+*** Finding Min in an arrray***
+*******************************/
+
 #include<stdio.h>
 int find_min(int[],int);
 
