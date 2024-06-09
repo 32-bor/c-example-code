@@ -1,6 +1,4 @@
-/*******************************
-*** Finding Min in an arrray***
-*******************************/
+// Finding min in an array
 
 #include<stdio.h>
 int find_min(int[],int);
