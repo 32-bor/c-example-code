@@ -21,7 +21,7 @@ int find_min(int array[],int size)
 {
 	int min=array[0];
 
-	for(int i=0;i<size;i++)
+	for(int i=1;i<size;i++)
 	{
 		if(array[i]<min)
 			min=array[i];
