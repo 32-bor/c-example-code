@@ -5,7 +5,7 @@ int find_max(int [],int);
 
 int main()
 {
-	int myArray1[]={9,435,43,654,45,76,9,3,18};
+	int myArray1[]={998,435,43,654,45,76,9,3,18};
 	// int myArray2[]={4,9,8,6,2};
 	int max1=find_max(myArray1,9);
 	// int max2=find_max(myArray2,5);
