@@ -17,7 +17,6 @@ int main()
 	{
 		scanf("%d",&a[i]);
 	}
-
 	printf("which element do you want to count in the array\n");
 	scanf("%d",&element);
 	occurs=occurences(a,size,element);
