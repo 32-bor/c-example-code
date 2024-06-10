@@ -1,4 +1,4 @@
-/// Finding max in an array ///
+// Finding max in an array //
 
 #include<stdio.h>
 int find_max(int [],int);
